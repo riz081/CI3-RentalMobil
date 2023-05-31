@@ -1,0 +1,9 @@
+1. Install XAMPP, isine wes enek PHP (Cara cek versi php buka CMD ketik php -v)
+2. Install extension nak VSCode (Extension : PHP Intelephense, gambar gajah warna ungu)
+3. extract folder app_rental_mobil
+4. pindah/copas folder app_rental_mobil nang htdocs (lokasi htdocs : Lokal Disk C->xampp->htdocs)
+5. buka browser (chrome dkk), ketik http://localhost/phpmyadmin/index.php?route=/database/export&db=rental_mobil
+6. import database rental_mobil(file database didalam folder app_rental_mobil)
+7. ketik http://localhost/app_rental_mobil/index.php/customer/dashboard nak browser
+8. akun admin (username : admin password : admin123)
+9. akun customer (username : budi password : budi)
