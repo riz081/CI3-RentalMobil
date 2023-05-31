@@ -2,7 +2,7 @@
 
 class Auth_admin extends CI_Controller
 {
-
+// tesssss
     public function login()
     {
         $this->_rules();
